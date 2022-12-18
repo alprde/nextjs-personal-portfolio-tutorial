@@ -114,7 +114,7 @@ export default function Home() {
 
                               <div className="flex items-center space-x-4">
                                 <img
-                                    src="https://pbs.twimg.com/profile_images/1472142550731571205/soY8MW5w_400x400.jpg"
+                                    src="https://pbs.twimg.com/profile_images/1596807857063825411/EBnNNn4z_400x400.jpg"
                                     alt="Me"
                                     className="w-10 h-10 rounded-full"
                                 />
@@ -124,14 +124,14 @@ export default function Home() {
                                     <span className="text-pink-300"> {">"} </span> const
                                     techWeb
                                     <span className="font-bold text-pink-300">2</span> =
-                                    ["Reactjs", "Nextjs", "Graphql", "Nodejs"];{" "}
+                                    ["Reactjs", "Nextjs", "Graphql", "Nodejs", "PHP"];{" "}
                                   </p>
-                                  <p className="text-sm">
-                                    <span className="text-pink-300"> {">"} </span> const
-                                    techWeb
-                                    <span className="font-bold text-pink-300">3</span> =
-                                    ["Solidity", "Web3.js", "Ethers.js"];{" "}
-                                  </p>
+                                  {/*<p className="text-sm">*/}
+                                  {/*  <span className="text-pink-300"> {">"} </span> const*/}
+                                  {/*  techWeb*/}
+                                  {/*  <span className="font-bold text-pink-300">3</span> =*/}
+                                  {/*  ["Solidity", "Web3.js", "Ethers.js"];{" "}*/}
+                                  {/*</p>*/}
                                 </div>
                               </div>
 
@@ -141,7 +141,7 @@ export default function Home() {
                                 </Link>
 
                                 <a
-                                    href="https://www.youtube.com/channel/UCfGXEo2uCkVqcIqkIaFNGcA"
+                                    href="https://www.youtube.com/channel/UCmZx4VU2sXZPwr3WsgkSqBQ"
                                     target={"_blank"}
                                     rel="noopener noreferrer"
                                     className="transition duration-300"
